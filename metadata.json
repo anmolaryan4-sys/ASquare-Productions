@@ -1,0 +1,6 @@
+{
+  "name": "A² Productions",
+  "description": "Premium ad films for growing brands. High-end cinematic advertising campaigns for startups, D2C, and modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
